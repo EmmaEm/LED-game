@@ -1,8 +1,29 @@
 body {
-  padding: 50px;
+  padding: 0px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin:0 ;
+  height: 100%;
+  widows: 100%;
 }
 
 a {
   color: #00B7FF;
+}
+.pix { 
+  float: left;
+   width: 3.12vw;
+   min-width:  3.12%;
+   min-height:  3.12%;
+   height: 3.12vh !important ;
+   background:gray;
+ 
+
+}
+.player{
+  background-color: red;
+
+}
+
+.pix:hover{
+  /* background-color: red; */
 }
